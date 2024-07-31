@@ -1,0 +1,18 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+logs/
+*.log
+
+# Ignore environment variable files
+.env
+
+# Ignore secret files
+secret.txt
+
+# Ignore temporary files
+*.tmp
+
+# Ignore solution.js file in the 8.6-Permalist-Project directory
+8.6-Permalist-Project/solution.js
